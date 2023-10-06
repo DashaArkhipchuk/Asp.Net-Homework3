@@ -1,0 +1,11 @@
+D:\ASP.Net\Homework3\CocktailsLibrary\bin\Debug\net6.0\CocktailsLibrary.deps.json
+D:\ASP.Net\Homework3\CocktailsLibrary\bin\Debug\net6.0\CocktailsLibrary.dll
+D:\ASP.Net\Homework3\CocktailsLibrary\bin\Debug\net6.0\CocktailsLibrary.pdb
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.AssemblyInfoInputs.cache
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.AssemblyInfo.cs
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.dll
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\refint\CocktailsLibrary.dll
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\CocktailsLibrary.pdb
+D:\ASP.Net\Homework3\CocktailsLibrary\obj\Debug\net6.0\ref\CocktailsLibrary.dll

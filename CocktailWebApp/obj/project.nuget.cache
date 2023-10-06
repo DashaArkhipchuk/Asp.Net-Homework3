@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuXVGni1oaGpX6aJ3N6LTTSW1ySiqmzuql5MINpc3q23v2t5oSkEe31cMrdkhBFdMDnTMLqc0e7s/LdKQXbBkg==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.Net\\Homework3\\CocktailWebApp\\CocktailWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darin\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\darin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\darin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\darin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
